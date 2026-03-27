@@ -12,6 +12,7 @@
 ---
 
 ## 🔬 Project Overview
+
 This repository contains the evaluation tasks for the **Google Summer of Code (GSoC) 2026** application for the ML4SCI organization. The project demonstrates a robust pipeline integrating classical Deep Learning, Quantum Machine Learning (QML), and Orchestral AI to analyze high-energy physics data.
 
 The core deliverable is a single Jupyter Notebook (`ML4SCI_GSoC2026_Evaluation.ipynb`) divided into three primary objectives:
