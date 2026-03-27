@@ -40,5 +40,5 @@ To run this notebook locally, ensure you have Python 3.13+ installed.
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/antonyjasfer/GSOC-2026-ML4SCI-Tasks.git](https://github.com/antonyjasfer/GSOC-2026-ML4SCI-Tasks.git)
+git clone git clone https://github.com/antonyjasfer/GSOC-2026-ML4SCI-Tasks.git
 cd GSOC-2026-ML4SCI-Tasks
